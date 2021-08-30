@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/intel-isl/Open3D/master/docs/_static/open3d_logo_horizontal.png" width="320" />
 </p>
 
-# sdfsdfsOpen3D: A Modern Library for 3D Data Processing
+# Open3D: A Modern Library for 3D Data Processing
 
 <h4>
     <a href="http://www.open3d.org">Homepage</a> |
